@@ -47,4 +47,4 @@ IDS-Testbed documentation includes
      * how to register at the DAPS
      * etc
 
-
+Install the Testbed [here](https://github.com/International-Data-Spaces-Association/IDS-testbed)
