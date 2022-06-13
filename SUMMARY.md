@@ -1,0 +1,17 @@
+# Table of contents
+
+* [How to Build Data Spaces?](README.md)
+  * [Step 1. Gather Knowledge](how-to-build-data-spaces/1-Gather-Knowledge.md)
+  * [Step 2. Define Your Use Case](how-to-build-data-spaces/2-Define-Your-Use-Case.md)
+  * [Step 3. Build Components](how-to-build-data-spaces/3-Build-Components.md)
+  * [Step 4. Prepare for Go Live](how-to-build-data-spaces/4-Prepare-for-Go-Live.md)
+  * [Step 5. Share](how-to-build-data-spaces/5-Share.md)
+* [IDS RAM 4.0](ids-ram-4.0/README.md)
+  * [How to Contribute to IDS RAM?](ids-ram-4.0/how-to-contribute-to-ids-ram.md)
+  * [What is new? (RAM v3.0 vs v4.0)](ids-ram-4.0/what-is-new-ram-v3.0-vs-v4.0.md)
+* [Minimum Viable Data Space (MVDS)](MVDS/Readme.md)
+* [IDS Training](ids-training.md)
+* [IDS Testbed](ids-testbed-1/README.md)
+  * [IDS Test Centers](ids-testbed-1/ids-test-centers.md)
+* [IDS Open Source Strategy](ids-open-source-strategy/README.md)
+  * [IDS Graduation Scheme](ids-open-source-strategy/ids-graduation-scheme.md)
