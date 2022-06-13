@@ -4,6 +4,8 @@
 
 ### Introduction
 
+{% embed url="https://www.youtube.com/watch?t=2s&v=RSAG03kOcSU" %}
+
 The following content is meant to support everyone who wants to either build IDS components or implement and/or contribute to the existing open source components. It will link you to relevant sources and will provide guidance on your way.
 
 The Knowledge Base (a.k.a. "How to Build Data Spaces?") is the store of information that relies on IDS expertise, that is meant to support building IDS components and contribute to the existing open source components. A five-step approach is depicted here to sort the great amount of information and documentation in a structured manner. Each step contains links to the relevant information and resources that might be helpful in the process of establishing data spaces.
