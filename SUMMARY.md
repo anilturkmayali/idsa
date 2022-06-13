@@ -9,7 +9,6 @@
 * [IDS RAM 4.0](ids-ram-4.0/README.md)
   * [How to Contribute to IDS RAM?](ids-ram-4.0/how-to-contribute-to-ids-ram.md)
     * [International-Data-Spaces-Association/IDS-RAM\_4\_0](ids-ram-4.0/how-to-contribute-to-ids-ram/international-data-spaces-association-ids-ram\_4\_0.md)
-  * [What is new? (RAM v3.0 vs v4.0)](ids-ram-4.0/what-is-new-ram-v3.0-vs-v4.0.md)
 * [IDS Testbed](ids-testbed-1/README.md)
   * [IDS Test Centers](ids-testbed-1/ids-test-centers.md)
 * [Minimum Viable Data Space (MVDS)](MVDS/Readme.md)
