@@ -8,4 +8,3 @@ IDS offers an open and collaborative landscape on Github, where various Open Sou
 
 [See IDS projects on Github](https://github.com/International-Data-Spaces-Association)
 
-[Join IDS on Github](https://forms.office.com/pages/responsepage.aspx?id=NNZGs\_usx0K9RPFVfuibGz1qA21VHyZEj6dyjHL7iBdUM0ZVMzlEMkJTUlhOSEVEWEQyMjZPOUNYTi4u)&#x20;
