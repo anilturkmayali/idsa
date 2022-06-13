@@ -1,6 +1,6 @@
 # Table of contents
 
-* [How to Build Data Spaces?](README.md)
+* [IDS Knowledge Base](README.md)
   * [Step 1. Gather Knowledge](how-to-build-data-spaces/1-Gather-Knowledge.md)
   * [Step 2. Define Your Use Case](how-to-build-data-spaces/2-Define-Your-Use-Case.md)
   * [Step 3. Build Components](how-to-build-data-spaces/3-Build-Components.md)
