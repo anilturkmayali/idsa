@@ -15,5 +15,6 @@
 * [Minimum Viable Data Space (MVDS)](MVDS/Readme.md)
 * [IDS Training](ids-training.md)
 * [IDS Open Source Strategy](ids-open-source-strategy/README.md)
+  * [Portfolio of IDS Building Blocks](ids-open-source-strategy/portfolio-of-ids-building-blocks.md)
   * [IDS Graduation Scheme](ids-open-source-strategy/ids-graduation-scheme.md)
 * [Design Principles for Data Spaces](design-principles-for-data-spaces.md)
